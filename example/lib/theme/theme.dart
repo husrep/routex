@@ -9,7 +9,7 @@ class AppTheme  {
     accentColor: Color(0xFFf4b512),
     scaffoldBackgroundColor: Color(0xFF18BC9C),
     buttonTheme: ButtonThemeData(
-        buttonColor: Color(0xFFf4b512)
+        buttonColor: Color(0xFFE6D703)
     ),
 
     // Define the default font family.
